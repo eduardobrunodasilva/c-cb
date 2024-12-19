@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1733508680 source:c:\temp\ws-cb\teste]-debugger\main.c
+	<stdio.h>
+	<string.h>
+
